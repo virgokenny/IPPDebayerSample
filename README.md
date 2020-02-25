@@ -35,6 +35,9 @@ My Installed Path:
 ## Reference
 
 > [ipp demosaic document](https://software.intel.com/en-us/ipp-dev-reference-demosaicahd)
+
 > [ipp resize with tbb sample code](https://stackoverflow.com/questions/39874560/resizing-an-image-using-intels-integrated-performance-primitives)
+
 > [find ipp cmake](https://github.com/hanjianwei/cmake-modules/blob/master/FindIPP.cmake)
+
 > [find tbb cmake](https://github.com/justusc/FindTBB/blob/master/FindTBB.cmake)
